@@ -1,7 +1,7 @@
 4Port usb DMX adaptor
 
 
-More info can be found on nortle.be
+More info can be found on: https://nortle.be/15-diy-4-port-usb-dmx/
 i used JCLPCB for ordering pcb's:
 https://jlcpcb.com/
 
