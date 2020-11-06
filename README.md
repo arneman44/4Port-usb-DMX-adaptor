@@ -1,5 +1,6 @@
 4Port usb DMX adaptor
 
+As a beginning lighting tech at my local youth club. I needed a cheap way to control some lighting fixtures via DMX. That's why I created this USB-DMX dongle that's open-source so my fellow DIYers can build one themself. I will be selling these as PCB's, kits, and assembled units. At what I find a very reasonable price.
 
 More info can be found on: https://nortle.be/15-diy-4-port-usb-dmx/
 
